@@ -1,0 +1,11 @@
+{
+  "champions": [
+    { "id": 1, "name": "Pikachu", "type": "eletric" },
+    { "id": 2, "name": "Charmander", "type": "water" },
+    { "id": 3, "name": "Raichu", "type": "eletric" }
+  ],
+  "players": [
+    { "id": 1, "name": "JWFelipe", "ranking": 1, "idChampion": [1, 2, 3] },
+    { "id": 2, "name": "WFelipe", "ranking": 2, "idChampion": [2] }
+  ]
+}
